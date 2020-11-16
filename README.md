@@ -1,7 +1,7 @@
 # Windows 10 SSH Warning unprotected key file in AWS ec2 instance
 
-<img src="./windows unprotected private key file.png">  
-
+<img src="./windows unprotected private key file.png">    
+Watch it here https://youtu.be/1gVJ0ShTrp8  
 ---  
 
 Open up windows powershell  
