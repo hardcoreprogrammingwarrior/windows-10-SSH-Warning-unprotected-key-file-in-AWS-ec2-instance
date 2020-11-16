@@ -1,5 +1,9 @@
 # Windows 10 SSH Warning unprotected key file in AWS ec2 instance
 
+<img src="./unprotected private key file.png">  
+
+---  
+
 Open up windows powershell  
 ```cd``` to your pem folder
 
