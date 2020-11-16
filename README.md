@@ -1,5 +1,7 @@
 # Windows 10 SSH Warning unprotected key file in AWS ec2 instance
 
+Open up windows powershell
+
 ```sh
 $path = ".\laravel8.pem"
 ```
